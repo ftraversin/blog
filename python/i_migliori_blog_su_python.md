@@ -4,7 +4,15 @@ Molto spesso sviluppatori e appassionati di Python pubblicano nei loro blog tutt
 ![](../img/it32.png) Blog in italiano: 
 ======================================
 
-Purtroppo non esistono molti blog in italiano, per cui elencherò sono gli essenziali:
+Purtroppo non esistono moltissimi blog in italiano, per cui elencherò sono gli essenziali:
+
+ * [programmareinpython.it](https://www.programmareinpython.it/blog/): il blog di Michele Saba. Un must.
+
+ * [diariodiunanalista.it](https://www.diariodiunanalista.it/): blog con molti spunti su vari utilizzi della tecnologia anche con Python
+
+ * [bitcamp.it](https://bitcamp.it/blog/): un sacco di articoli interessanti per la programmazione.
+
+ * [ludusrusso.dev](https://www.ludusrusso.dev/blog): il blog di Ludovico Russo con molti articoli sulla tecnologia e il mondo della programmazione a 306°
 
  * [distillatodipython.blogspot.it](https://distillatodipython.blogspot.com/): blog di Paolo Di Ieso, molto interessante soprattutto per quel che riguarda la sezione relativa alle risorse.
 
