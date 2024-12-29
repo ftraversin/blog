@@ -1,6 +1,6 @@
 # Python
 > ### Blogs
-  * [I migliori blog su Python](python\i_migliori_blog_su_python.md)
+  * [I migliori blog su Python](python/i_migliori_blog_su_python.md)
 
 <br>
 <br>
@@ -8,4 +8,4 @@
 
 # Viaggi
 > ### Romania
-   * [Sibiu](viaggi\romania\sibiu\sibiu.md)
+   * [Sibiu](viaggi/romania/sibiu/sibiu.md)
