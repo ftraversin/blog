@@ -5,9 +5,9 @@ La storia di Sibiu risale al Medioevo, quando fu fondata dai Tedeschi della Tran
 
 Sibiu è anche conosciuta per essere stata il luogo in cui sono stati stabiliti i primi ospedale, scuola, biblioteca e farmacia del paese, mostrando lo spirito d'impresa che caratterizza la città.
 
-![Sibiu](IMG_20230218_135518.jpg)
+![Sibiu](img_20230218_135518.jpg)
 
-![Sibiu](IMG_20230218_180046.jpg)
+![Sibiu](img_20230218_180046.jpg)
 
 La maggior parte dei mesi dell'anno ci sono molte cose in programma, dai festival (più festival qui che in qualsiasi altra città in Romania), alle mostre, al teatro e all'opera, oltre a molti caffè per osservare la gente nelle tre principali piazze. Sibiu ha un'atmosfera bohémien ma solenne, forse è questo che la rende così attraente; i suoi vicoli di case verde pisello in via di decadimento con le loro finestre a forma di palpebra distinte, guardano un cast di artisti, visitatori e artisti di strada che si agitano sotto di loro, proprio come facevano nel 18° secolo quando la città ha davvero fiorito.
 
