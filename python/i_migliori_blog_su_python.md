@@ -4,7 +4,7 @@ Molto spesso sviluppatori e appassionati di Python pubblicano nei loro blog tutt
 
 <br>
 
-![](https://ftraversin.github.io/blog/python/it32.png) Blog in italiano: 
+![](https://ftraversin.github.io/blog/python/img/it32.png) Blog in italiano: 
 ======================================
 
 Purtroppo non esistono moltissimi blog in italiano, per cui elencherò sono gli essenziali:
@@ -30,7 +30,7 @@ Purtroppo non esistono moltissimi blog in italiano, per cui elencherò sono gli 
 <br>
 <br>
 
-![](./uk32.png) Blog in inglese:
+![](https://ftraversin.github.io/blog/python/img/uk32.png) Blog in inglese:
 =======================================
 
 Se volete un blog per scrivere i vostri articoli il cui tema fondamentale sia python, suggerisco la piattaforma di pythonblogs.com, dove è appunto possibile creare il proprio blog, ma, soprattutto, è possibile seguire i blog di professionisti della programmazione.
