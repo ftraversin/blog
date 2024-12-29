@@ -1,7 +1,10 @@
+# I migliori blog su Python
+
 Molto spesso sviluppatori e appassionati di Python pubblicano nei loro blog tutta una serie di informazioni molto utili, come news, codice, tutorials, links, trucchi, opinioni, risorse e molto altro. Ho raccolto e vi condivido i link di alcuni dei blog che seguo, sperando che gli appassionati possano trarne utili informazioni:
 
+<br>
 
-![](../img/it32.png "Blog in italiano") Blog in italiano: 
+![Blog in italiano](../img/it32.png) Blog in italiano: 
 ======================================
 
 Purtroppo non esistono moltissimi blog in italiano, per cui elencherò sono gli essenziali:
@@ -24,8 +27,10 @@ Purtroppo non esistono moltissimi blog in italiano, per cui elencherò sono gli 
 
  * [meccanismocomplesso.org](https://www.meccanismocomplesso.org/): non un vero e proprio blog nel senso stretto del termine, ma un sito con una sezione appositamente dedicata a Python in cui è possibile trovare qualche articolo interessante.
 
+<br>
+<br>
 
-![](../img/uk32.png "Blog in inglese") Blog in inglese:
+![Blog in inglese](../img/uk32.png) Blog in inglese:
 =======================================
 
 Se volete un blog per scrivere i vostri articoli il cui tema fondamentale sia python, suggerisco la piattaforma di pythonblogs.com, dove è appunto possibile creare il proprio blog, ma, soprattutto, è possibile seguire i blog di professionisti della programmazione.
