@@ -4,7 +4,7 @@ Molto spesso sviluppatori e appassionati di Python pubblicano nei loro blog tutt
 
 <br>
 
-![Blog in italiano](./it32.png) Blog in italiano: 
+![](https://ftraversin.github.io/blog/python/it32.png) Blog in italiano: 
 ======================================
 
 Purtroppo non esistono moltissimi blog in italiano, per cui elencherò sono gli essenziali:
