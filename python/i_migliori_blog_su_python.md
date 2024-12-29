@@ -1,7 +1,3 @@
----
-title: I migliori blog su Python
----
-
 Molto spesso sviluppatori e appassionati di Python pubblicano nei loro blog tutta una serie di informazioni molto utili, come news, codice, tutorials, links, trucchi, opinioni, risorse e molto altro. Ho raccolto e vi condivido i link di alcuni dei blog che seguo, sperando che gli appassionati possano trarne utili informazioni:
 
 
